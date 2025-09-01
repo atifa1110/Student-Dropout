@@ -99,7 +99,6 @@ Untuk dapat membantu institusi dalam memprediksi kemungkinan jika siswanya akan 
 
 ```
 python -m streamlit run app.py
-
 ```
 Dan untuk menghentikan program aplikasi Streamlit dapat melalui ```ctrl + c```.
 Sistem prediksi tersebut juga dapat diakses secara langsung yang sudah di-deploy ke Streamlit Cloud melalui tautan berikut ini.
