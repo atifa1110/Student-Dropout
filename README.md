@@ -101,7 +101,7 @@ Untuk dapat membantu institusi dalam memprediksi kemungkinan jika siswanya akan 
 python -m streamlit run app.py
 ```
 Dan untuk menghentikan program aplikasi Streamlit dapat melalui ```ctrl + c```.
-Sistem prediksi tersebut juga dapat diakses secara langsung yang sudah di-deploy ke Streamlit Cloud melalui tautan berikut ini.
+Sistem prediksi tersebut juga dapat diakses secara langsung yang sudah di-deploy ke Streamlit Cloud melalui tautan [berikut ini.](https://student-dropout-atifa.streamlit.app/)
 
 ## Conclusion
 - **Faktor utama** yang memengaruhi status mahasiswa adalah usia saat masuk, status pekerjaan, pendapatan keluarga, program studi, serta performa akademik semester pertama dan kedua. 
