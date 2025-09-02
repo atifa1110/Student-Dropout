@@ -94,6 +94,8 @@ Dropout: 2,209 mahasiswa, Enrolled: 794 mahasiswa, Graduate: 1,421 mahasiswa
 - Menampilkan status berdasarkan keteraturan pembayaran biaya kuliah.
 - Insight: mahasiswa yang tidak up-to-date dalam pembayaran biaya kuliah mayoritas dropout, sedangkan yang selalu membayar tepat waktu mayoritas graduate.
 
+📊 Dashboard dapat dipublikasikan di Tableau Public ([Link](https://public.tableau.com/app/profile/atifa.fiorenza/viz/Student_17565759638510/Dashboard1)).5
+
 ## Menjalankan Sistem Machine Learning
 Untuk dapat membantu institusi dalam memprediksi kemungkinan jika siswanya akan dropout dan mencegah hal tersebut lebih dini, dapat menggunakan sistem prediksi yang telah dibangun. Sistem dibangun menggunakan Streamlit dan untuk menjalankan sistem tersebut secara local, dapat menjalankan kode berikut pada Terminal
 
